@@ -11,7 +11,7 @@
     {
       "binding": "DB",
       "database_name": "craftstack-db",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "database_id": "8d1f061d-7b18-4d22-be88-12a0b3f0a706",
       "migrations_dir": "drizzle"
     }
   ]
